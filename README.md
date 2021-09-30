@@ -15,6 +15,6 @@ This program will assist you in uncovering bike share usage patterns, using data
 * washington.csv
 
 ### Credits
-Project Tasks from Udacity course have to be credited \n
+Project Tasks from Udacity course have to be credited
 [Stackoverflow]https://stackoverflow.com/questions/26960735/how-do-you-indent-a-bulleted-list-in-a-readme-file-using-github-flavored-markdow
 [Google]https://google.com
