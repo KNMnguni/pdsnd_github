@@ -19,8 +19,7 @@ def get_filters():
             no day filter
     """
     print('Hello! Let\'s explore some US bikeshare data!')
-    # get user input for city (chicago, new york city, washington). 
-    # HINT: Use a while loop to handle invalid inputs
+    # get user input for city (chicago, new york city, washington).
 
     city = ""
     cities = ('chicago', 'new york', 'washington')
