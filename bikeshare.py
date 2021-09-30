@@ -257,7 +257,7 @@ def user_stats(df):
 def raw_data(df):
     """This will allow the user to view the raw data used in for determining the Stats"""
     start_time = time.time()
-    if input("Would you like to see the raw data used to generate these bikeshare usage patterns? (y/n):") == 'y':
+    if input("Would you like to see the raw data used to generate these bikeshare usage patterns? (y/n):\n") == 'y':
         print('\nRaw Data...\n')
         start_row = 0
         end_row = 5
