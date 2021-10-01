@@ -1,17 +1,20 @@
->**Note**: Please **fork** the current Udacity repository so that you will have a **remote** repository in **your** Github account. Clone the remote repository to your local machine. Later, as a part of the project "Post your Work on Github", you will push your proposed changes to the remote repository in your Github account.
+>**Note**: This **repository** was created as part of the **Introduction to Version Control** course towards the **Programming for Data Science with Python Nanodegree**. The **code** presented in this repository is **KNMnguni's** submission for the 2nd Project for the **Introduction to Python** course.  
 
 ### Date created
-Include the date you created this project and README file.
+13/09/2021 
 
 ### Project Title
-Replace the Project Title
+Explore US Bikeshare Data
 
 ### Description
-Describe what your project is about and what it does
+This program will assist you in uncovering bike share usage patterns, using data provided by Motivate, a bike share system provider for many major cities in the United States \nYou will be able to compare the system usage between three large cities: Chicago, New York City, and Washington
 
 ### Files used
-Include the files used
+* chicago.csv
+* new_york_city.csv
+* washington.csv
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
-
+Project Tasks from Udacity course have to be credited
+[Stackoverflow]https://stackoverflow.com/questions/26960735/how-do-you-indent-a-bulleted-list-in-a-readme-file-using-github-flavored-markdow
+[Google]https://google.com
