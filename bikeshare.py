@@ -1,6 +1,5 @@
 import time
 import pandas as pd
-import numpy as np
 
 
 CITY_DATA = {'chicago': 'chicago.csv',
@@ -20,8 +19,7 @@ def get_filters():
             no day filter
     """
     print('Hello! Let\'s explore some US bikeshare data!')
-    # get user input for city (chicago, new york city, washington). 
-    # HINT: Use a while loop to handle invalid inputs
+    # get user input for city (chicago, new york city, washington).
 
     city = ""
     cities = ('chicago', 'new york', 'washington')
@@ -259,7 +257,7 @@ def user_stats(df):
 def raw_data(df):
     """This will allow the user to view the raw data used in for determining the Stats"""
     start_time = time.time()
-    if input("Would you like to see the raw data used to generate these bikeshare usage patterns? (y/n):") == 'y':
+    if input("Would you like to see the raw data used to generate these bikeshare usage patterns? (y/n):\n") == 'y':
         print('\nRaw Data...\n')
         start_row = 0
         end_row = 5
